@@ -10,41 +10,41 @@ Lockout of 2FA:
 
 WORDPRESS.COM
 ======================
-https://.wordpress.com
-https://.art.blog
-https://.business.blog
-https://.car.blog
-https://.code.blog
-https://.data.blog
-https://.design.blog
-https://.family.blog
-https://.fashion.blog
-https://.finance.blog
-https://.fitness.blog
-https://.food.blog
-https://.game.blog
-https://.health.blog
-https://.home.blog
-https://.law.blog
-https://.movie.blog
-https://.music.blog
-https://.news.blog
-https://.photo.blog
-https://.poetry.blog
-https://.politics.blog
-https://.school.blog
-https://.science.blog
-https://.sport.blog
-https://.tech.blog
-https://.travel.blog
-https://.video.blog
-https://.water.blog
+https://.wordpress.com/
+https://.art.blog/
+https://.business.blog/
+https://.car.blog/
+https://.code.blog/
+https://.data.blog/
+https://.design.blog/
+https://.family.blog/
+https://.fashion.blog/
+https://.finance.blog/
+https://.fitness.blog/
+https://.food.blog/
+https://.game.blog/
+https://.health.blog/
+https://.home.blog/
+https://.law.blog/
+https://.movie.blog/
+https://.music.blog/
+https://.news.blog/
+https://.photo.blog/
+https://.poetry.blog/
+https://.politics.blog/
+https://.school.blog/
+https://.science.blog/
+https://.sport.blog/
+https://.tech.blog/
+https://.travel.blog/
+https://.video.blog/
+https://.water.blog/
 
 CNBLOGS
-https://cnblogs.com
+https://cnblogs.com/
 
 ALTERVISTA.ORG
-https://altervista.org
+https://altervista.org/
 
 MEDIUM.COM
 https://medium.com/@
@@ -57,7 +57,7 @@ https://blogger.com/
 https://.blogspot.com
 
 GOOGLE SITES
-https://sites.google.com/s/
+https://sites.google.com/view/
 
 WEEBLY.COM
 https://weebly.com/
@@ -72,7 +72,7 @@ https://facebook.com/
 https://facebook.com/groups/
 
 TWITTER.COM
-https://twitter.com
+https://twitter.com/
 
 PSCP.TV
 https://pscp.tv/
@@ -122,10 +122,10 @@ PHOTO SHARING SITES
 ==========================
 ARTSTATION.COM
 https://artstation.com/
-https://.artstation.com
+https://.artstation.com/
 
 BEHANCE.NET
-https://behance.net
+https://behance.net/
 
 IMGBB.COM
 https://.imgbb.com/
@@ -135,18 +135,18 @@ https://instagram.com/
 
 TUMBLR.COM
 https://tumblr.com/
-https://.tumblr.com
+https://.tumblr.com/
 
 GIT SITES
 ===========================
 GITHUB.COM
-https://github.com
+https://github.com/
 
 GITLAB.COM
-https://gitlab.com
+https://gitlab.com/
 
 BITBUCKET.ORG
-https://bitbucket.org
+https://bitbucket.org/
 
 DATASETS SITES
 ===========================
@@ -206,20 +206,23 @@ MEDIUM.COM
 https://medium.com/@jair2018
 
 LIVEJOURNAL
-https://.livejournal.com/jair2018
+https://jair2018.livejournal.com/
 
 BLOGSPOT.COM/BLOGGER.COM
 https://blogger.com/
-https://.blogspot.com/jair2018
+https://jair2018.blogspot.com/
 
 GOOGLE SITES
-https://sites.google.com/s/jair2018
+https://sites.google.com/view/jair2018
+
+GOOGLE BUSINESS SITES
+
 
 WEEBLY.COM
-https://weebly.com/jair2018
+https://jair2018.weebly.com/
 
 WIX.COM
-https://.wix.com/jair2018
+https://jair2018.wix.com/
 
 STREAMING PLATFORMS
 =======================================
